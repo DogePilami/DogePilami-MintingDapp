@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit https://oasis-nft.dog/ to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit https://oasis-nft.dog to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -162,8 +162,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 666) {
-      newMintAmount = 666;
+    if (newMintAmount > 100) {
+      newMintAmount = 100;
     }
     setMintAmount(newMintAmount);
   };

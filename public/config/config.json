@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9",
-  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9/",
+  "CONTRACT_ADDRESS": "0x753b4A38215Aed92386632C1136ee3C04E853B08",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x753b4A38215Aed92386632C1136ee3C04E853B08/",
   "NETWORK": {
     "NAME": "DogeChain",
     "SYMBOL": "WDOGE",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 33,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OASIS",
-  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9/",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/0x753b4A38215Aed92386632C1136ee3C04E853B08/",
   "SHOW_BACKGROUND": true
 }

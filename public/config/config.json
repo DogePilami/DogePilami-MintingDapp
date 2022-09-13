@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9/",
+  "NETWORK": {
+    "NAME": "DogeChain",
+    "SYMBOL": "WDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "Doge Pilami",
+  "SYMBOL": "DP",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 33000000000000000000,
+  "DISPLAY_COST": 33,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OASIS",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/0xDBcD3Dc01681019747b284EbD2f248041e1cFcf9/",
+  "SHOW_BACKGROUND": true
+}
